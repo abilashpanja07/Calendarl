@@ -38,7 +38,7 @@
 			<p class="meta">
 			<div class="entry">
 				<p style = "color:white;">Big or small businesses... we love serving you all. You can have unlimited services and unlimited clients. We know that even if you have just started with our website, our user friendly interface will lead you to seamless usage of our website. </p>
-				<p style = "color:white;">We also know that as your practice grows, the more advanced your needs become. It is our goal to make your </p>
+				<p style = "color:white;">We also know that as your practice grows, the more advanced your needs become. It is our goal to make your experience wonderful.</p>
 				<p class="meta">
 			</div>
 		</div>
